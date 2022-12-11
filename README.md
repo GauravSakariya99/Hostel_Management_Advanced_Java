@@ -1,6 +1,6 @@
 # Hostel Management Advanced Java
 <h2>Project Description</h2>
-<p>Implemented using JAVA,JSP,SERVLET,JDBC,MySQL</p>
+<p>Implemented using <br> JAVA <br>JSP<br>SERVLET<br>JDBC<br>MySQL<br></p>
 
 <h2>Project Report</h2>
 <p>
@@ -26,3 +26,22 @@ is transparent process and easy to use.
 • Visitor room (only three available)<br>
 </p>
   
+<h2> System Functionalities:</h2>
+<h3>Admin functionality:</h3>
+<p>
+• Admin log in / Log out<br>
+• Confirm room<br>
+• Confirm mess<br>
+• Check room availability<br>
+• See allotted rooms<br>
+</p>
+<br>
+
+<h3>Student Functionality:</h3>
+<p>
+• Student login /register<br>
+• Apply room<br>
+• Apply for mess<br>
+• Apply for Visitors room<br>
+• Print receipts<br>
+</p>
